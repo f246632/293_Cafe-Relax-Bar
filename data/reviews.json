@@ -1,0 +1,24 @@
+{
+  "google_rating": "4.5/5",
+  "total_reviews": "18",
+  "reviews": [
+    {
+      "author": "Maria S.",
+      "rating": 5,
+      "text": "Ein wunderbarer Ort zum Entspannen! Der Kaffee ist ausgezeichnet und die Atmosphäre sehr gemütlich. Perfekt für einen ruhigen Nachmittag.",
+      "date": "September 2024"
+    },
+    {
+      "author": "Thomas K.",
+      "rating": 5,
+      "text": "Great little cafe in Zehlendorf. The baristas are friendly and the pastries are always fresh. Love the cozy interior!",
+      "date": "August 2024"
+    },
+    {
+      "author": "Julia B.",
+      "rating": 4,
+      "text": "Nettes Café in ruhiger Lage. Guter Kaffee, leckerer Kuchen und freundlicher Service. Komme gerne wieder!",
+      "date": "Juli 2024"
+    }
+  ]
+}

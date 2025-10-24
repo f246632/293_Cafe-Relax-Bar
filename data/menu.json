@@ -1,0 +1,34 @@
+{
+  "coffee": [
+    {"name": "Espresso", "price": "€2.50", "description": "Classic Italian espresso"},
+    {"name": "Cappuccino", "price": "€3.80", "description": "Espresso with steamed milk foam"},
+    {"name": "Latte Macchiato", "price": "€4.20", "description": "Layered espresso and milk"},
+    {"name": "Flat White", "price": "€4.00", "description": "Microfoam milk with espresso"},
+    {"name": "Americano", "price": "€3.20", "description": "Espresso with hot water"},
+    {"name": "Filter Coffee", "price": "€3.00", "description": "Freshly brewed filter coffee"}
+  ],
+  "tea": [
+    {"name": "Green Tea", "price": "€3.50", "description": "Organic green tea"},
+    {"name": "Black Tea", "price": "€3.50", "description": "Classic English breakfast"},
+    {"name": "Herbal Tea", "price": "€3.50", "description": "Selection of herbal infusions"},
+    {"name": "Chai Latte", "price": "€4.50", "description": "Spiced tea with milk"}
+  ],
+  "breakfast": [
+    {"name": "Continental Breakfast", "price": "€8.90", "description": "Croissant, bread, jam, butter"},
+    {"name": "Berlin Breakfast", "price": "€12.50", "description": "Bread rolls, cold cuts, cheese, egg"},
+    {"name": "Avocado Toast", "price": "€9.50", "description": "Sourdough with avocado, tomato, seeds"},
+    {"name": "Pancakes", "price": "€8.50", "description": "Homemade pancakes with maple syrup"}
+  ],
+  "cakes": [
+    {"name": "Apfelstrudel", "price": "€4.50", "description": "Traditional apple strudel"},
+    {"name": "Cheesecake", "price": "€5.20", "description": "New York style cheesecake"},
+    {"name": "Chocolate Cake", "price": "€4.80", "description": "Rich chocolate layer cake"},
+    {"name": "Carrot Cake", "price": "€4.90", "description": "Moist carrot cake with cream cheese frosting"}
+  ],
+  "snacks": [
+    {"name": "Croissant", "price": "€2.80", "description": "Butter croissant"},
+    {"name": "Pain au Chocolat", "price": "€3.20", "description": "Chocolate croissant"},
+    {"name": "Pretzel", "price": "€2.50", "description": "Traditional German pretzel"},
+    {"name": "Sandwich", "price": "€6.50", "description": "Fresh daily sandwich selection"}
+  ]
+}
